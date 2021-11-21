@@ -8,6 +8,8 @@ To use, you will need:
 
 When you start the app, you will need 2 things: an sAccessToken and an sIdRefreshToken. You can find both of those by going to the tutorial [here](https://github.com/LITdevs/SaladBind#automatic-get-with-salad-auth-token).
 
+For security reasons, these tokens are not saved on your device. Also, I'm not stealing your balance. Would you think the source code would be open if it did?
+
 ## Building
 To make working builds of SaladBalanceCheck, you will first have to download SaladAPI at https://github.com/thepwrtank18/SaladAPI. Follow the instructions there. I don't know why it doesn't include it automatically, but here you go.
 
